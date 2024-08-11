@@ -1,1 +1,1 @@
-print("HWID verified, enjoy the script, made by @mnoq")
+return false
